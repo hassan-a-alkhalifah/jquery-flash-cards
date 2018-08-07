@@ -1,7 +1,15 @@
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+.clickable {
+  height: 200px;
+  margin-bottom: 30px;
+  overflow: auto;
+}
 .answer {
   display: none;
 }
-
 .answer, .question {
   cursor: pointer;
   color: #0088cc;
